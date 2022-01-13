@@ -1,0 +1,2 @@
+min_value : 27
+max_value : 105
