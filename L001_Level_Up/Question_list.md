@@ -84,4 +84,4 @@
 33. serialize and deserialize of binary tree
 34. serialize and deserialize BST
 35. Binary tree zig zag level order traversal
-![image](https://user-images.githubusercontent.com/72231697/149837688-dc0008c5-e724-4247-ab98-d110863a059e.png)
+
