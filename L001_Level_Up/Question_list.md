@@ -37,7 +37,7 @@
 [7. LCA]()\
 [8. BST iterator]()\
 [9. LCA(BST)]()\
-[10. View categories problems]()\
+10. View categories problems
   [a. Level order Traversal]()\
     [i. left view]()\
     [ii. right view]()\
