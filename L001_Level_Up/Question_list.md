@@ -25,5 +25,5 @@
 [24. copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)\
 [25. deep copy of original list](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)\
 [26. LRU cache](https://leetcode.com/problems/lru-cache/)\
-[27. Multiply two linked lists](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1/)\
+[27. Multiply two linked lists](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1/)
 
