@@ -38,18 +38,18 @@
 [8. BST iterator]()\
 [9. LCA(BST)]()\
 [10. View categories problems]()\
-[  a. Level order Traversal]()\
-[    i. left view]()\
-[    ii. right view]()\
-[  b. Vertical Order]()\
-[    i. bottom view]()\
-[    ii. top view]()\
-[  c. Diagonal order]()\
-[    i. top view ]()\
-[    ii. bottom view]()\
-[  d. Anti-diagonal order]()\
-[    i. top view ]()\
-[    ii. bottom view ]()\
+  [a. Level order Traversal]()\
+    [i. left view]()\
+    [ii. right view]()\
+  [b. Vertical Order]()\
+    [i. bottom view]()\
+    [ii. top view]()\
+  [c. Diagonal order]()\
+    [i. top view ]()\
+    [ii. bottom view]()\
+  [d. Anti-diagonal order]()\
+    [i. top view ]()\
+    [ii. bottom view ]()\
 [11. vertical sum of binary tree node]()\
 [12. diagonal order sum using doubly linkedList]()\
 [13. Binary tree to douly linkedlist]()\
