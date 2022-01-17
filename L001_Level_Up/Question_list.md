@@ -28,60 +28,58 @@
 [27. Multiply two linked lists](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1/)
 
 # 2. Tree
-1. Node to root path
-2. Node to leaf path
-3. all single child parent in binary tree
-4. print all nodes in K depth away
-5. burn the binary tree starting from the target node
-6. burn water problems
-7. LCA
-8. BST iterator
-9. LCA(BST)
-10. View categories problems
-  a. Level order Traversal
-    i. left view
-    ii. right view
-  b. Vertical Order
-    i. bottom view
-    ii. top view
-  c. Diagonal order
-    i. top view 
-    ii. bottom view
-  d. Anti-diagonal order
-    i. top view 
-    ii. bottom view 
-11. vertical sum of binary tree node
-12. diagonal order sum using doubly linkedList
-13. Binary tree to douly linkedlist
-14. binary tree  to BST
-15. CONSTRUCTION =>
-  a. construct bst from preorder traversal
-  b. construct bst from inorder traversal
-  c. construct bst from postorder traversal
-  d. construct bst from level order traversal
-  e. construct binary tree from pre and inorder traversal
-  f. construct binary tree from postorder and inorder traversal
-  g. construct binary from pre and post order traversal
-  h. construct binary from in and level order traversal
-
-16. precedance and seccesor of binary tree
-17. precedance and seccesor of BST
-18. floor and ceil from binary tree
-19. kth smallest element in BST
-20. insert a node BST
-21. AVL tree
-22. Morris traversal
-23. validate BST (using morris traversal)
-24. Kth largest (using morris)
-25. Kth samllest (using morris)
-26. Diameter of tree
-27. Path sum
-28. find the max path sum between two leaves of binary tree
-29. binary tree maximum path sum
-30. binary tree cameras
-31. house robber III
-32. Longest zigzag path in a binary tree
-33. serialize and deserialize of binary tree
-34. serialize and deserialize BST
-35. Binary tree zig zag level order traversal
-
+[1. Node to root path]()
+[2. Node to leaf path]()
+[3. all single child parent in binary tree]()
+[4. print all nodes in K depth away]()
+[5. burn the binary tree starting from the target node]()
+[6. burn water problems]()
+[7. LCA]()
+[8. BST iterator]()
+[9. LCA(BST)]()
+[10. View categories problems]()
+[  a. Level order Traversal]()
+[    i. left view]()
+[    ii. right view]()
+[  b. Vertical Order]()
+[    i. bottom view]()
+[    ii. top view]()
+[  c. Diagonal order]()
+[    i. top view ]()
+[    ii. bottom view]()
+[  d. Anti-diagonal order]()
+[    i. top view ]()
+[    ii. bottom view ]()
+[11. vertical sum of binary tree node]()
+[12. diagonal order sum using doubly linkedList]()
+[13. Binary tree to douly linkedlist]()
+[14. binary tree  to BST]()
+[15. CONSTRUCTION =>]()
+[  a. construct bst from preorder traversal]()
+[  b. construct bst from inorder traversal]()
+[  c. construct bst from postorder traversal]()
+[  d. construct bst from level order traversal]()
+[  e. construct binary tree from pre and inorder traversal]()
+[  f. construct binary tree from postorder and inorder traversal]()
+[  g. construct binary from pre and post order traversal]()
+[  h. construct binary from in and level order traversal]()
+[16. precedance and seccesor of binary tree]()
+[17. precedance and seccesor of BST]()
+[18. floor and ceil from binary tree]()
+[19. kth smallest element in BST]()
+[20. insert a node BST]()
+[21. AVL tree]()
+[22. Morris traversal]()
+[23. validate BST (using morris traversal)]()
+[24. Kth largest (using morris)]()
+[25. Kth samllest (using morris)]()
+[26. Diameter of tree]()
+[27. Path sum]()
+[28. find the max path sum between two leaves of binary tree]()
+[29. binary tree maximum path sum]()
+[30. binary tree cameras]()
+[31. house robber III]()
+[32. Longest zigzag path in a binary tree]()
+[33. serialize and deserialize of binary tree]()
+[34. serialize and deserialize BST]()
+[35. Binary tree zig zag level order traversal]()
