@@ -1,5 +1,5 @@
 # 1. LinkedList
-[1. mid of LL](https://leetcode.com/problems/middle-of-the-linked-list/)
+[1. mid of LL](https://leetcode.com/problems/middle-of-the-linked-list/)/
 [2. reverse of LL](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 3. palindrome of LL
 4. fold of LL
